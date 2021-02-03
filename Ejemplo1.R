@@ -5,3 +5,5 @@ hist(x)
 mean(x)
 sd(x)
 boxplot(x)
+
+#Nuevo
