@@ -2,5 +2,6 @@
 
 x <- rnorm(100)
 hist(x)
-
-#Otro
+mean(x)
+sd(x)
+boxplot(x)
